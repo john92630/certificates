@@ -361,7 +361,8 @@ The root certificate has been saved in root.crt.</code></pre>
 <pre><code><b>$ curl --cacert root.crt https://localhost:8443/hi</b>
 Hello, world!</code></pre>
 
-*All Done!*
+*All Done!*star
+
 
 Check out the [Getting Started](./docs/GETTING_STARTED.md) guide for more examples
 and best practices on running Step CA in production.
